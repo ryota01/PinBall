@@ -354,6 +354,10 @@ Prefab:
       propertyPath: m_Name
       value: SmallSterPrefab (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1733799757113542, guid: 7042c9605b032fb41ae96ca22d69cf12, type: 2}
+      propertyPath: m_TagString
+      value: SmallStarTag
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7042c9605b032fb41ae96ca22d69cf12, type: 2}
   m_IsPrefabParent: 0
